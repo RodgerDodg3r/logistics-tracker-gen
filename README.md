@@ -14,6 +14,11 @@ Creating a daily loading tracker was a repetitive and time-consuming task that t
 - Avoids duplicate depot entries per vehicle
 - Outputs a clean CSV report suitable for tracking or logistics review
 
+## 🔐Security 
+
+Security and data integrity were key considerations in developing this tracker automation tool. Since the data includes sensitive logistics information such as vehicle numbers, departure times, and depot details, I ensured that the script operates strictly on local files with no external dependencies or network access. This minimizes exposure and keeps all information within a secure environment. Additionally, by eliminating the need for manual handling and repetitive copy-pasting, the risk of accidental data leakage or misentry is significantly reduced. The code also avoids storing any data beyond the runtime of the script, ensuring that no sensitive information is persistently cached or logged. This approach reflects my awareness of secure development practices, especially when dealing with operational data.
+
+
 ## 🛠️ Requirements
 
 - Python 3.x
