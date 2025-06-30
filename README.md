@@ -2,6 +2,11 @@
 
 📋 A simple and powerful Python script that parses a loading plan from a CSV file and generates a tracker-friendly output as `tracker.csv`.
 
+## ❗Applying Python to a Real-World Logistics Challenge
+
+Creating a daily loading tracker was a repetitive and time-consuming task that typically took between 30 to 40 minutes each day. The process involved manually extracting data from spreadsheets, organizing it by vehicle loads, and formatting it into a structured summary for logistics tracking. This not only consumed valuable time but also introduced the risk of human error. Recognizing this inefficiency, I saw an opportunity to apply my programming skills to streamline the workflow. I developed a Python script that automates the entire process — reading raw data from CSV files, organizing it into structured load records, and generating a ready-to-use tracker file in seconds. This solution significantly improved productivity, reduced errors, and demonstrated my ability to solve real-world problems through automation.
+
+
 ## 🔧 Features
 
 - Extracts vehicle loads and depot details from structured loading plan files
